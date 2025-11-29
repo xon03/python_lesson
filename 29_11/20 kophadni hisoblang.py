@@ -1,5 +1,4 @@
 s=input()
 x=int(input())
 s=s.replace("^","**")
-print(s)
 print(eval(s))
