@@ -19,3 +19,5 @@ else:
             i=i+1
         a=a+2
     print(a-2)
+# input n=6, 9
+# output 13, 23

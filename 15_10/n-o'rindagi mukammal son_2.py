@@ -11,3 +11,5 @@ for i in range(3,n*n+1,2):
 x=T[-1]
 p=2**(x-1)*(2**x-1)
 print(p)
+# input n=2, 3
+# output 28, 496
