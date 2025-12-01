@@ -19,3 +19,7 @@ while p>eps:
 print("Teylor=",s)
 print("ffcosx=",cos(x))
 print("xatolik=",s-cos(x))
+# input eps=0.000001
+# output Teylor= 0.500000433432915
+# output ffcosx= 0.5000000000000001
+# output xatolik= 4.3343291489250646e-07

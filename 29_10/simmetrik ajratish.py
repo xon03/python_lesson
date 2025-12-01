@@ -11,3 +11,5 @@ n=list(map(int,input().split()))
 for i in n:
     if sim(i):
         print(i, end=' ')
+# input 101 234 90909 333 2781
+# output 101 90909 333

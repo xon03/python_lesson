@@ -9,3 +9,5 @@ for i in range(len(s)-1):
         k=1
 l=l+str(k)+s[-1]
 print(l)
+# input aabbbcccccad
+# output 2a3b5c1a1d

@@ -7,4 +7,5 @@ if n==b:
     print("Ha")
 else:
     print("Yo'q")
-print(c)
+# input 12321, 89099
+# output Ha, Yo'q

@@ -11,3 +11,5 @@ for i in range(len(a)):
 a[0],a[x]=a[x],a[0]
 for i in a:
     print(i,end='')
+# input  9807653143
+# output 1033456789
