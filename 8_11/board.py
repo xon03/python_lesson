@@ -6,4 +6,6 @@ for i in A:
     if s.count(i)>k:
         k=s.count(i)
         n=i
-print(k,n)
+print(k,"ta",n)
+# input: 33444567
+# output: 3 ta 4

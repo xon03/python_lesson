@@ -5,6 +5,5 @@
     <mapping directory="$PROJECT_DIR$/../mustaqil" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/15_10" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mustaqil" vcs="Git" />
   </component>
 </project>

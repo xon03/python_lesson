@@ -6,3 +6,6 @@ while m!=0:
     n,m=m,n%m
 print("Ekub: "+"1"*n)
 print("Ekuk: "+"1"*(s//n))
+# input: 111 1111
+# output: Ekub: 1
+#         Ekuk: 111111111111
