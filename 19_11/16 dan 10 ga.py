@@ -9,4 +9,5 @@ for i in range(x):
         y=int(n[i])
     s+=y*16**(x-i-1)
 print(s)
-print(515993%35)
+# input: 6C
+# output: 108

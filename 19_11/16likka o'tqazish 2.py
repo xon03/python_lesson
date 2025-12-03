@@ -12,3 +12,5 @@ while n:
     n=n//16
 s.reverse()
 print("".join(s))
+# input: 124, 108
+# output: 7C, 6c
