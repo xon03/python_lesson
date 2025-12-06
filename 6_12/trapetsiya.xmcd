@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 931c0a24cf0fbe76c321a892e499931b?>
+<?validation-md5-digest 2f7d5686a29c692e5b6b4e5f4e0e16bd?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -10,12 +10,12 @@
 			<author>hp computers</author>
 			<company>Parametric Technology Corporation</company>
 			<keywords/>
-			<revisedBy>hp computers</revisedBy>
+			<revisedBy>Admin</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>9</revision>
+			<revision>10</revision>
 			<documentID>7F07F19D-1133-4CD4-B798-70EBFB899455</documentID>
-			<versionID>C9AD01FD-CEC6-4395-A775-678BFFF650DB</versionID>
+			<versionID>07A04F1D-46F1-4DC4-9005-CFF126597A2E</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -218,14 +218,14 @@
 			</math>
 			<rendering item-idref="1"/>
 		</region>
-		<region region-id="4" left="36" top="183" width="39.75" height="18.75" align-x="59.25" align-y="198" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="4" left="36" top="183" width="42.75" height="18.75" align-x="61.5" align-y="198" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="11" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash>2423c3c2404cd8255c43f54b3d305732</hash>
+					<originRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="322780308" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
 					</originRef>
-					<parentRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="11" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash>2423c3c2404cd8255c43f54b3d305732</hash>
+					<parentRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="322780908" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
 					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -247,11 +247,11 @@
 			</math>
 			<rendering item-idref="2">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="38.25" height="17.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="41.25" height="17.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="9" left="36" top="213" width="103.5" height="12.75" align-x="105.75" align-y="222" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="9" left="36" top="213" width="104.25" height="12.75" align-x="104.25" align-y="222" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:apply>
@@ -260,25 +260,25 @@
 							<ml:id xml:space="preserve">g</ml:id>
 							<ml:real>0</ml:real>
 							<ml:real>2</ml:real>
-							<ml:real>100</ml:real>
+							<ml:real>80</ml:real>
 						</ml:sequence>
 					</ml:apply>
 					<result xmlns="http://schemas.mathsoft.com/math30">
-						<ml:real>6.3892690660475084</ml:real>
+						<ml:real>6.3893888588028958</ml:real>
 					</result>
 				</ml:eval>
 			</math>
 			<rendering item-idref="3"/>
 		</region>
-		<region region-id="7" left="42" top="252" width="73.5" height="40.5" align-x="81.75" align-y="276" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="7" left="42" top="252" width="78" height="40.5" align-x="84" align-y="276" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="11" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-							<hash>2423c3c2404cd8255c43f54b3d305732</hash>
+						<originRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="322781028" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash/>
 						</originRef>
-						<parentRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="11" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-							<hash>2423c3c2404cd8255c43f54b3d305732</hash>
+						<parentRef doc-id="A2C68C7E-FDBA-4428-9C9C-71C1EAC26FB1" version-id="3ED6604B-C400-48CF-A9DF-7F6A4BD7CCC5" branch-id="00000000-0000-0000-0000-000000000000" revision-num="322780188" is-modified="false" region-id="0" href="C:\Users\hp computers\Desktop\acmp_python\python_lesson\6_12\tortburchaklar.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
 						<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -308,7 +308,7 @@
 			</math>
 			<rendering item-idref="4">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="33.75" height="39" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="36" height="39" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
@@ -395,22 +395,22 @@ Fs8Ft35Z3m/I+5mE12t9qm6J2Y3mwzJh7XIQpHSGb0lVsxKztn9xc/+rECrlUeOv7ace2gq+
 GaQ4GyT6SD2hVIzvcSPS9mu0ZKlaAT4Q/9MKA91NZRgpESVh3AMeKFXPXIobilQaBRaLujmD
 e5Ia72sULUUVqRBuIilqDGT/n1q6uejawBy2y/FhfqjDFwFjFPut80wyz5O1WkHDVr8nBBRS
 I9f/BtEVr9BTxi3c50EAAAAASUVORK5CYII=</item>
-		<item item-id="3">iVBORw0KGgoAAAANSUhEUgAAAIoAAAARCAYAAAACJjTkAAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVGhD7VeBkeMgDHRdLsj1uBo3
-42J4CQQsAgG2k5+5O+9M7hIQaCWt5GRxL15M4BXKiym8QnkxhVcoL6bwn4RyuG3Z6O8DnLtb
-l8Uty+r2U9ZMnG5f2XbWPuDcV7dsiqXlt1qnGNedPH8LOSZNkeG5N3jm9cWtsIHrrfs0SqEc
-29Sha2CRzBerDbjDF6gvunPfkr9jo2RMFDAlrkiA5ddYn+B2D+xPcwOQ300CLsWuecL7mJNJ
-ziCUoNhPC4UL9fhOEnAO/iLPC8Urk0yw/Pb4FHufQLgfp0EX5D/ZFrFn0XCceB/XaHS/CCWQ
-iaPIBxoVSN0Zx5PvTrTxR8Xu4P9hL+WJ91rdzMmM98irR1QXcCawBItDA9qP5bfPh3MpnfsJ
-SLG3mHvwW4N877gvdeUzIKA7+YSJEsZbOC+jDolhwoX8gXay50mIijWhABiHhLZNCbbBQC4J
-BTtsAM3F8jviw5/bIamGxJeRg8CJ8snbPu/W3bkWZbyyjod8o+Yp+0AoBE+q0RlpGoijyi7f
-oxMaUHacLk4Lo8LYIC6T04ShuVh+R3z0/hNcjd3HACII39dEoJALvicLdTwBLwgFlcnve0IJ
-n82ESWcUguuBxZmJ+aAH2vI4uBPl/Qx8kvFiy++Ajy0UKViKHV54AUBzGjeJqk0Sh5G3IhYb
-00IpCWuhwDl2jI+hmtmNn5FZfGXwNtg3xhJ/FfRQ87X89vlwMauw78LnN9YB/FrAwvuzsVn4
-rOLFtjONSgChhACDundQfimIogs4QdU6OG4kkRabXZUDCAGtOtPJj05UbV+OVX3GuN8nTexx
-z/Jr8uH4BsW8CuCWqIl//uwFLvu6MXEvTaJ430TDRRRCuQVP2E5M3V0nfTFTxnyHCvDY54Ng
-fNt+GtjRvwhfFwplrhiXrHD9jC0eE4STfmprLfXwbftp+FzMjfKfhodCCWM8jLZegngcx/36
-0dP/cvZTwLn4nSJhPJ8oL/4AnPsHzsYc3cP0CSYAAAAASUVORK5CYII=</item>
+		<item item-id="3">iVBORw0KGgoAAAANSUhEUgAAAIQAAAARCAYAAAAc7wRXAAAAAXNSR0IArs4c6QAAAARnQU1B
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALPSURBVGhD7VeJkaQwDCQuAiIeoiEZ
+guH02W75wzDD1d0UXcXuMBZSS2pp2el48QLwCuKFwyuIFw6vIF44/CVBbMcyLfTzA+zrMU/T
+MU3zse72XRP7sc5sO2rP7mezn44ZHyjiUi7zShGeQuK+VAqWePq8Wvzx+5q/HF4Q2zL00DWw
+GMaa0gb4kAb1xbWvS4y3LVSM0wbm/qH5tbgDHO6B4xHfVhMo7mKJSaOjXYM/fw65D3IGQagy
+vy0IbsjHPkmoKfmLPEcK4WyguL247uwbUP9uO/VA8aNtgz+LBv1xL878myDSmpKLE5Ug5Jim
+LawbmTa0kUfNbuPfehbrxGe16eRiBj929Yj6aRhLLKLFwcHy1ySj735cfsaE8w1YU5dQY4hb
+gmKveH6Hfx2wIXRd6fO2upAYFtbIb2hnZ0LC1JoTUsAEEuo2HmyDiVwSBE5SF5YLcDmLy/d1
+6tmA4dXIVetAdeNjqW/Ld6q5z6vkz7mHXujtbUEQhFRlAuJ0W6DCLvnJC6rwk/WsIIjL6XZQ
+6HuHNRLE3Ytbz+8eruYodYNm1/gz2E8S5PlGuyAIVCB/7glC75sFswlwwuqBRZiISdInGhJs
+PHH2uQvmE4sI/k/itgVhjYk5wtUgLg2Gs3PRZz2o8Ue4XNoYFoQnnAsCnuPAMGElCXoWFDyG
+JDKffBscG3MJb+dVSA5BPFiHflxuWpHeXQiHUG+I2wI2uMnfwLYjg0cAQWiCquIVFO4b79TO
+BSq+h8CVItKX1elJCWhCc17pGCcvVGnv12T+TN2/iNfs3WQ243IeJ027Cmmccoj0LD7fI8d8
+0Kr8g78LA+gEcQtCuF2Ycop2enHKjNlHluC2jifBeNq+AE7oD+FxQVDl3PpjJed/G916J+z0
+L2yumR6eti8gOY+t4P8NHwpC16+uql6BeL2G8/JPRv/l6V8D5/ybYmB8viFe/BCO4w/H4KaW
+KPxcQQAAAABJRU5ErkJggg==</item>
 		<item item-id="4">iVBORw0KGgoAAAANSUhEUgAAAGIAAAA2CAYAAAA8ukzvAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMQSURBVHhe7ZqLjYQgEIbt4lq4Gqzk
 KqCP68BqbMZiuBlejiiggivJ/V9i4uqKMP88gN1Bgy6AEJ0AIToBQnTCTSEWPY2DHgY+lJ7d
