@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 5b7e80dd7b5c5d4df4372cd441a53e43?>
+<?validation-md5-digest 36ec18a4a68e88c880510ace12ea8820?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -10,12 +10,12 @@
 			<author>Amaliy matematika</author>
 			<company/>
 			<keywords/>
-			<revisedBy>Amaliy matematika</revisedBy>
+			<revisedBy>Admin</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>4</revision>
+			<revision>5</revision>
 			<documentID>282F008E-19FA-4BDF-8995-991ADBDAE82A</documentID>
-			<versionID>5F36538B-442D-4D90-A479-E0F1921AAFF7</versionID>
+			<versionID>0982AF41-F84F-4742-851B-FE72CBDFAFF8</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -396,22 +396,22 @@ Yk8QA3aHwwMzJPIOSnde5fljQcZFazph1cjCyGqHpmRkdQiVG4Jg0s71LrF9bHVnvEt+DU0M
 fPLm/0GQiH/aaphbsBpiAUoKffGZIFv7fhr9RN87CRJ3lyGZG4I8c6m36TPntQkyjRW8zLfT
 OBiPi78vCO7eksFD4/HTz7eY0yGi1pgryHAwy177Dx0GB184ifZ1rqZEaIIo91FBhKGCCIMl
 yPiV9dEsVd7C7BDlaVQQYaggwlBBhKGCiALgD2Dk+oE59FXfAAAAAElFTkSuQmCC</item>
-		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCf3bJlgVYo1Mo3FSsqoMaNJkoaU6wkmKglxRBvCu2KawoLZQlg
-PDSeTMSTiWe9ePGiN49+xa8D4Flj9B8wjTGamEidebMsW0IUPxJjYJp5H/PmN7Mz+/p2ng8A
-JOR+5HIxlrEtsbK63gBEGrI6kkoMXdBTlpBAEjmKoJhH834FyJVodx7hTNFC2OW82uxD7Eo1
-f0xoq/a8TJMrAdIqgCxNozPWVisYXO7TAJdjFYjws9mKTZrw4gdcoacqiw/094wfs/QRSVj2
-IXvdAtSEKqGq6uNJfdgwRxWxsJ/QaTPFshIhO+RE6504P3bEnObgjiOXoiDphHsC+TTqHcT+
-Ofbt6CyD/V1ehrN2CmWQA2JQ7XjqtqysMTRp6fx8XUChuKm6q7VoXrOUtSBnrWYzZy1oZy2k
-3XiC4uAWzlYINWvFMBcqslMnAvNhwuLmyJBJKeKFKgoPxcsSeqAovvqLMueEwswjFwqkjaqJ
-jB7PGPqoJTASB8sBiRaxC/OBd7fu1b+HFXQYPLBYKAOvS7aM5seR7fligTwyFTbov6JvyIsu
-3qD1RUkw8WdBGHpgFPsszKw8Cn5IIVCc/zydBZfhgNQaeB24ngP/wFOl3q2b/zIsK+feSB4c
-P7APkjh6J7+6aCd+yTdRNZ6u7njWirsi/VxnrfQ7/v8m/Yl//vwB0Duhryt9denM3zgL1gcp
-WHq9xJc+V8v7obxoZzhjmlCBF0EOsixocxoMsXsqbbTHxhii7RUt1Xv3kT8VVt2hwlU3nj0G
-DEIGx4+jl6Y+IFOVoSJ/nLzq63ubh8Y+ua4X+4T+bKoT9VQCVrGRz2u0vTq1eOQlgMzzqKeF
-Q0H7UepPzb7Yl1oI3L4GNyPzyqulakhdkasix86EjIqKFThr+LEt4n9F4inruRClIlyWuBDu
-17PGYObMUWNiLDM4c9JM66yfEKAGBtibpbH4ftBk3w+a+X7Q1MIVbzNqhvl+0LyV7wdh2jWt
-bCssnMcSIG1jQZOwHbGNbGcjtP/a2EhkBxtpIyM7GdPmGNnlMtK+jO2wsZ2M7SDsblbtcLB7
-XIt7XYs0/w4AAP//AwDBLcVjdg0AAA==</item>
+		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCf3dKyQCu01Mo3FSsooMaNJkoaU6wkmKglxRBvCu2qawoLZQlg
+PDTGg4l4MvGsFy9e9ObRr/jBQdCrxuA/YIgxHkykzrzZLltCFD8SY2CaeR/z5jezM/v6dp4X
+ACTkfuRyMZaxLTGzmlYPRCqyMpxKDF3QUqaQQBI5iqCYS/V8BciVqHcf48ythrDLedSZR9iV
+qr6Y0FaseZkqVwKkFQBZmkJnrK1UMLjcqwIuxyoQ4WOzFZtU4cUHuEJPVRYf6O8ZO2pqw5Kw
+7EX2OAWoCVVCVdHGkto53Rhxi4V9hE4bKZaVCNlBO1rP+PnRw8YUB3cMuRQFSTvc48inUO8A
+9i+wb0dnGezv8TKcsVIog+wXg4Dtqds0s/rQhKnx83UBheKkQFdL0by6kLUgZ616M2ctaGUt
+pN58iuLgFs5WCDVrxDAXKrJTKwLzYsLixvCQQSnihSoKD8XLEnqgKL76izLnhMJcRM7nSRtV
+ExktntG1EVNgJA6WAxItYufn/Au379d9gBV0CFywlC8Dj0O2jObHka35Up48MuU36L+ib8hL
+Dt6g9UVJMPBnQhh6YAT7LEyvPAp+SCFw2/95Ogsuw36pxf/WfyMHvoFn7jqn7kLb3JsrZ99J
+Lhw/tA6SOHonv5pox3/JN1EAT1dnPGvFXZV+rrNW+h3/f5P+xD9//gDondDXlb66dOZvnAXr
+g9xYes3iS39Vw/uhvGhn2GOaUIEXQQ6yLGhxGnSxeyottMvC6KLtFS3Vew+QP+dX3aHCVTee
+PToMQgbHT6KXJj8iU5WhIH+auObte78IDX1ybS/2Ce35ZCfqKQSsYiNf1mh7dWp2yQWAzPOo
+q5lDQftR6k/OvNybmvffuQ63InPu14VqSFmRqyLH9oSMiooVOGv4sS3if0XiKeu4EKUiXJa4
+EO7Xsvpg5vQRfXw0Mzh9wkhrrJ8QoHoGWJulofh+0GjdD5r4ftDYzBVvE2qG+X7QtJXvB2Ha
+NS1sKyycxxIgbWNBo7AdsYxsZyO0/1rZSKSNjbSSkR2MabWN7HQYaV/GdljYTsZ2EHYXq3bY
+2N2OxT2ORZp/BwAA//8DAGzgfxF2DQAA</item>
 		<item item-id="9">iVBORw0KGgoAAAANSUhEUgAAAHAAAADyCAYAAACVmEGYAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAn4SURBVHhe7Z1NcuIwEIU5FQtOw4qr
 sOUe7DkGF8gl5gYet/yDJEum9Rx1BH5f1ZuqJA7x6EvLjls2h458NM0IPBwOX51aNCXw379/
